@@ -13,14 +13,9 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/charles-hood',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/charleshood',
+      icon: 'fa-envelope-o',
+      name: 'Email',
+      url: 'mailto:charles.hood@gmail.com',
     },
     {
       icon: 'fa-facebook',
@@ -28,9 +23,14 @@ module.exports = {
       url: 'https://facebook.com/charleshood',
     },
     {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:charles.hood@gmail.com',
+      icon: 'fa-twitter',
+      name: 'Twitter',
+      url: 'https://twitter.com/charleshood',
+    },
+    {
+      icon: 'fa-github',
+      name: 'Github',
+      url: 'https://github.com/charles-hood',
     },
   ],
 };
